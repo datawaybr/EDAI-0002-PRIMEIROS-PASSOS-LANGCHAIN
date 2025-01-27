@@ -1,6 +1,6 @@
 # Primeiros passos com Langchain
 
-Para começar precisamos que no seu ambiente tenhamos o python instalado e de preferência também o Poetry.
+Para começar precisamos que no seu ambiente tenhamos o python instalado (>3.9) e de preferência também o Poetry.
 
 # Instalando requisitos
 
